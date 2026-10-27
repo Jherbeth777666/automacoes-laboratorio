@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+chave.json
+*.pdf
+*.xlsx
+*.xls
+*.csv
+entrada/
+saida/
+para_enviar/
+ubs_modo.txt
+diagnostico.txt
